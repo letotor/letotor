@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Je suis disponible pour un poste de developpeur web front-end en JS...
-- Passionné et curieux des nouvelles technologies, je suis Victor de GERMAIN developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS. Vous souhaitez faire plus ample connaissance sur mon parcours pro? Rien de plus simple , allez sur mon site :
-http://cv-gatsby-dgwebcreation.netlify.app
+- Passionné et curieux des nouvelles technologies, je suis Victor de GERMAIN developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS.J'apprend egalement vue3 pour l'utiliser à l'avenir car je m'y retrouve plus que react sur ce framework.  
+
+<!--Vous souhaitez faire plus ample connaissance sur mon parcours pro? Rien de plus simple , allez sur mon site :
+http://cv-gatsby-dgwebcreation.netlify.app-->
