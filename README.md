@@ -2,7 +2,7 @@
 
 <!--
 **letotor/letotor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Cancel changes
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![commitNumber](https://i.imgur.com/Pdw6ZnQ.png 'commit')
 - Je suis disponible pour un poste de developpeur web front-end en JS...
-- Passionné et curieux des nouvelles technologies, je suis Victor de GERMAIN developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS.J'apprend egalement vue3 pour l'utiliser à l'avenir car je m'y retrouve plus que react sur ce framework.  
+- Passionné et curieux des nouvelles technologies, je suis Victor DG developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS.J'apprend egalement vue3 pour l'utiliser à l'avenir car je m'y retrouve plus que react sur ce framework. Directus semble un bon compromis en tant que CMS headless ( generateur de model + expo api) et Vue3 en front. Prochain challenge : NestJS  
 
 <!--Vous souhaitez faire plus ample connaissance sur mon parcours pro? Rien de plus simple , allez sur mon site :
 http://cv-gatsby-dgwebcreation.netlify.app-->
