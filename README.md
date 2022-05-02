@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![commitNumber](https://i.imgur.com/Pdw6ZnQ.png 'commit')
-- Je suis disponible pour un poste de developpeur web front-end en JS...
-- Passionné et curieux des nouvelles technologies, je suis Victor DG developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS.J'apprend egalement vue3 pour l'utiliser à l'avenir car je m'y retrouve plus que react sur ce framework. Directus semble un bon compromis en tant que CMS headless ( generateur de model + expo api) et Vue3 en front. Prochain challenge : NestJS  
+🔭 Je suis disponible pour un poste de developpeur web front-end en JS.
+⚡ Passionné et curieux des nouvelles technologies, je suis Victor developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi et ReactJS. J'apprend egalement en complement le framwework vue3 couplé avec  Directus qui  semble un bon compromis en tant que CMS headless pour le backend ( generateur de model + expo api) . Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur ( ou podman) .  Prochain challenge typescript avec le framework NestJS
 
 <!--Vous souhaitez faire plus ample connaissance sur mon parcours pro? Rien de plus simple , allez sur mon site :
 http://cv-gatsby-dgwebcreation.netlify.app-->
