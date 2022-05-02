@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 + Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur ( ou podman) .  
 + 📫 Prochain challenge typescript avec le framework NestJS
 
-<!--Vous souhaitez faire plus ample connaissance sur mon parcours pro? Rien de plus simple , allez sur mon site :
-http://cv-gatsby-dgwebcreation.netlify.app-->
+#Js #HTML5 #CSS3 #REACT #VUE3 #Linux
