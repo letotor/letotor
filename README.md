@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ----
 🛠️ Compétences
 👉 Langages de programmation
-✨ react  ✨ node  ✨ Javascript  
+![react]()  ✨ node  ✨ Javascript  
 
 👉 Frontend Development
   ✨ HTML5  ✨ CSS3  
