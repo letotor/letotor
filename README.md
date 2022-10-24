@@ -21,3 +21,18 @@ Here are some ideas to get you started:
 + 📫 Prochain challenge typescript couplé a vue3
 
 #Js #HTML5 #CSS3 #REACT #VUE3 #EXPRESS #NODE #TYPESCRIPT #GRAPHQL #Linux
+----
+hammer_and_wrench Compétences
+point_right Langages de programmation
+  react   node   Javascript  
+
+point_right Frontend Development
+  HTML5   CSS3  
+
+point_right Databases & Cloud Hosting
+  mysql   express  
+
+point_right Software & Tools
+  git   gihub  
+
+bar_chart Statistiques Github (Développer pour afficher)
