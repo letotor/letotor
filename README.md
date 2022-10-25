@@ -1,10 +1,10 @@
 ### Hello World👋
 
-[VR skyline github](https://imgur.com/LexJk99.png 'commit number')
-          
+
+   <!--       
 Cancel changes
 Here are some ideas to get you started:
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
  ✨ git   ✨ gihub  
 
 📊 [bar_chart] Statistiques Github (Développer pour afficher)
+[VR skyline github](https://skyline.github.com/letotor/2021 'commit number')  
+![VR skyline github](https://imgur.com/BCTJYXT.png)
