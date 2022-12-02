@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![commitNumber](https://imgur.com/IyTUgby.png 'commit')
-## 🔭 Je suis disponible pour un poste de developpeur web front-end en JS (side project ou stage). 
-+ ⚡ Passionné et curieux des nouvelles technologies, je suis developpeur fontend JS. Je me passionne pour la jamstack avec le framework Gatsby ,NextJS, le cms headless strapi ( deploiement sur le Paas heroku) et ReactJS. Je monte en compétence sur le framwework vue3 (composition API) couplé avec  Directus qui  semble un bon compromis en tant que CMS headless pour le backend ( generateur de model + expo api) . 
-+ Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur ( ou podman) .  
-+ 📫 Prochain challenge typescript couplé a vue3
+## 🔭 Je suis disponible pour un poste de developpeur web front-end en JS ). 
++ ⚡ Passionné et curieux des nouvelles technologies, je suis developpeur fontend JS. Je m intéresse également à tout l écosystème de la jamstack ( Gatsby , gridsome,nuxt) et MERN. Mon objectif à court terme est la montée en compétence sur le framework nestJs couplé à prisma pour la construction d API performante et vue3/nuxt en front. J ai également un attrait pour le devops ( docker, intégration,admin serveur vps debian...)
++ Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur  .  
++ 📫 transformation de mon projet express -> nest/prisma et conteurisation bdd et serveur avec un serveur nginx en frontale sur mon vps. Terminer aussi mon portfolio en nuxtJS
 
 #Js #HTML5 #CSS3 #REACT #VUE3 #EXPRESS #NODE #TYPESCRIPT #GRAPHQL #Linux
 ----
