@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![commitNumber](https://imgur.com/yW0Nx53.png 'commit')
+![commitNumber](https://imgur.com/pMwXeW5.png 'commit')
 ## 🔭 Je suis disponible pour un poste de developpeur web front-end en JS ). 
 + ⚡ Passionné et curieux des nouvelles technologies, je suis developpeur fontend JS. Je m intéresse également à tout l écosystème de la jamstack ( Gatsby , gridsome,nuxt) et MERN. Mon objectif à court terme est la montée en compétence sur le framework nestJs couplé à prisma pour la construction d API performante et vue3/nuxt en front. J ai également un attrait pour le devops ( docker, intégration,admin serveur vps debian...)
 + Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur  .  
