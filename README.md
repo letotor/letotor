@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![commitNumber](https://imgur.com/pMwXeW5.png 'commit')
-## 🔭 Je suis disponible pour un poste de developpeur web front-end en JS ). 
-+ ⚡ Passionné et curieux des nouvelles technologies, je suis developpeur fontend JS. Je m intéresse également à tout l écosystème de la jamstack ( Gatsby , gridsome,nuxt) et MERN. Mon objectif à court terme est la montée en compétence sur le framework nestJs couplé à prisma pour la construction d API performante et vue3/nuxt en front. J ai également un attrait pour le devops ( docker, intégration,admin serveur vps debian...)
-+ Je porte egalement un interet à l'administration de serveur linux ( debian fedora centos arch ) , la ligne de commande ( CLis pour le deploiement de projet) et la conteneurisation dockeur  .  
-+ 📫 transformation de mon projet express -> nest/prisma et conteurisation bdd et serveur avec un serveur nginx en frontale sur mon vps. Terminer aussi mon portfolio en nuxtJS
+
+🌐 Passionné de développement Front-End avec Vue.js, j'ai récemment obtenu ma certification DWWM et je suis à la recherche d'une opportunité pour me spécialiser dans ce domaine. 
+🐳 Ayant déjà participé à plusieurs projets, je suis également compétent en Docker et j'ai une certification en la matière. J'ai acquis une expérience en Full-Stack avec Express et Prisma, mais mon véritable intérêt est dans le développement Front-End et la JAMstack.
+🚀Je suis actuellement en reconversion professionnelle et je suis motivé pour apprendre, m'investir et proposer mes services pour de nouveaux projets.
 
 #Js #HTML5 #CSS3 #REACT #VUE3 #EXPRESS #NODE #TYPESCRIPT #GRAPHQL #Linux
 ----
 🛠️ Compétences
 👉 Langages de programmation
-![react]()  ✨ node  ✨ Javascript  
+![react]()  ✨ node  ✨ Javascript   ✨ vue.js
 
 👉 Frontend Development
   ✨ HTML5  ✨ CSS3  
