@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 #Js #HTML5 #CSS3 #REACT #VUE3 #EXPRESS #NODE #TYPESCRIPT #GRAPHQL #Linux
 ----
 🛠️ Compétences
-👉 Langages de programmation
+👉 Langages, librairies
 ✨ React ✨ node  ✨ Javascript   ✨ vue.js
 
 👉 Frontend Development
-  ✨ HTML5  ✨ CSS3  
+  ✨ HTML5  ✨ CSS3  ✨ SCSS
   
 👉 Frameworks 
    ✨ Tailwind  ✨ Nuxt  
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   ✨ mysql   ✨ express  
 
 👉 Software & Tools,CI
- ✨ git   ✨ gihub ✨ Docker 
+ ✨ git   ✨ gihub ✨ Docker ✨ Debian,Fedora 
 
 📊 [bar_chart] Statistiques Github (Développer pour afficher)
 [VR skyline github](https://skyline.github.com/letotor/2021 'commit number')  
